@@ -1,7 +1,7 @@
 ##########################################
 # 站点配置
 
-baseURL = "https://example.com/"
+baseURL = "https://lai9fox.github.io/blog/"
 title = "Lai9Fox 的个人博客"
 languageCode = "zh-CN"
 hasCJKLanguage = true
@@ -98,13 +98,13 @@ uglyURLs = false
     # 名字
     name = "lai9fox"
     # 邮箱
-    email = "reuixiy@gmail.com"
+    email = "1591765125@qq.com"
     # 座右铭或简介
     motto = "Viva La Vida"
     # 头像
     avatar = "/icons/apple-touch-icon.png"
     # 网站（默认值：baseURL）
-    website = "https://io-oi.me/"
+    # website = "https://io-oi.me/"
     # 推特
     # twitter = "reuixiy"
 
